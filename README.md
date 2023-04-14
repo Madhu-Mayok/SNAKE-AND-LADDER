@@ -1,2 +1,2 @@
 # SNAKE-AND-LADDER
-This is a standalone application of snake and ladder which we usually play on board . To develop this , JavaFx and Java are used.
+This project is a standalone application of snake and ladder which we usually play on board .  JavaFx and Java technologies were used to develop this project.
